@@ -1,0 +1,20 @@
+[2026-11-12T21:27:33] [HIGH] 192.0.2.10 had 5 or more failed logins within 2 minutes.
+[2026-11-12T21:27:33] [MEDIUM] Failed login for admin from 198.51.100.25 at an unusual hour (02:14:08).
+[2026-11-12T21:27:33] [CRITICAL] New user 'demo_admin' was added to an admin group.
+[2026-11-12T21:35:55] [HIGH] 192.0.2.10 had 5 or more failed logins within 2 minutes.
+[2026-11-12T21:35:55] [MEDIUM] Failed login for admin from 198.51.100.25 at an unusual hour (02:14:08).
+[2026-11-12T21:35:55] [CRITICAL] New user 'demo_admin' was added to an admin group.
+[2026-11-12T21:37:48] [HIGH] File modified: notes.txt
+[2026-11-12T21:41:37] [HIGH] File modified: notes.txt
+[2026-11-12T21:41:59] [HIGH] 192.0.2.10 had 5 or more failed logins within 2 minutes.
+[2026-11-12T21:41:59] [MEDIUM] Failed login for admin from 198.51.100.25 at an unusual hour (02:14:08).
+[2026-11-12T21:41:59] [CRITICAL] New user 'demo_admin' was added to an admin group.
+[2026-11-12T21:52:07] [HIGH] File modified: notes.txt
+[2026-11-12T21:55:33] [HIGH] File modified: notes.txt
+[2026-11-12T21:55:38] [HIGH] 192.0.2.10 had 5 or more failed logins within 2 minutes.
+[2026-11-12T21:55:38] [MEDIUM] Failed login for admin from 198.51.100.25 at an unusual hour (02:14:08).
+[2026-11-12T21:55:38] [CRITICAL] New user 'demo_admin' was added to an admin group.
+[2026-11-12T21:58:16] [HIGH] File modified: notes.txt
+[2026-11-12T21:59:34] [HIGH] 192.0.2.10 had 5 or more failed logins within 2 minutes.
+[2026-11-12T21:59:34] [MEDIUM] Failed login for admin from 198.51.100.25 at an unusual hour (02:14:08).
+[2026-11-12T21:59:34] [CRITICAL] New user 'demo_admin' was added to an admin group.

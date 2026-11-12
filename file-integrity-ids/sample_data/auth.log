@@ -1,0 +1,11 @@
+Nov 12 20:01:03 lab sshd[1001]: Failed password for alice from 192.0.2.10 port 50101 ssh2
+Nov 12 20:01:18 lab sshd[1002]: Failed password for alice from 192.0.2.10 port 50102 ssh2
+Nov 12 20:01:35 lab sshd[1003]: Failed password for invalid user guest from 192.0.2.10 port 50103 ssh2
+Nov 12 20:01:49 lab sshd[1004]: Failed password for alice from 192.0.2.10 port 50104 ssh2
+Nov 12 20:02:02 lab sshd[1005]: Failed password for invalid user guest from 192.0.2.10 port 50105 ssh2
+Nov 12 20:02:15 lab sshd[1006]: Failed password for alice from 192.0.2.10 port 50106 ssh2
+
+Nov 12 02:14:08 lab sshd[1007]: Failed password for admin from 198.51.100.25 port 50107 ssh2
+
+Nov 12 20:05:00 lab useradd[2001]: new user: name=demo_admin, UID=1001, GID=1001, home=/home/demo_admin, shell=/bin/bash
+Nov 12 20:05:01 lab usermod[2002]: add 'demo_admin' to group 'sudo'

@@ -1,0 +1,2 @@
+Nov 12 14:20:00 lab sshd[2001]: Failed password for alice from 192.0.2.20 port 51001 ssh2
+Nov 12 14:20:40 lab sshd[2002]: Failed password for bob from 192.0.2.20 port 51002 ssh2
